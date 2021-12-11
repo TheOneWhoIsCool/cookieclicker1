@@ -3,6 +3,7 @@
 <img src="img/perfectCookie.png" width="128">
 
 The original game can be found at http://orteil.dashnet.org/cookieclicker/
+The orignal github verison can be found at https://github.com/ozh/cookieclicker
 
 This only for personal playment. You can play it randomly if you want. Don't Do Anything: https://TheOneWhoIsCool.github.io/CookieClickerPersonal/
 
