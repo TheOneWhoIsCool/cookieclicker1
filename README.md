@@ -4,7 +4,7 @@
 
 The original game can be found at http://orteil.dashnet.org/cookieclicker/
 
-This only for personal playment. You can play it randomly if you want. Don't Do Anything: https://theonewhoiscool.github.io/E/
+This only for personal playment. You can play it randomly if you want. Don't Do Anything: https://TheOneWhoIsCool.github.io/CookieClickerPersonal/
 
 ### How to update
 
