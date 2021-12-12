@@ -2,10 +2,10 @@
 
 <img src="img/perfectCookie.png" width="128">
 
-The original game can be found at http://orteil.dashnet.org/cookieclicker/
+The original game can be found at http://orteil.dashnet.org/cookieclicker/ ----
 The orignal github verison can be found at https://github.com/ozh/cookieclicker
 
-Unblocked for school! {link}
+Unblocked for school! https://theonewhoiscool.github.io/cookieclicker/
 
 ### How to update
 
